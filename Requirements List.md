@@ -1,7 +1,7 @@
 # Requirements
 
 ## Audio Input
-- 3.5mm Input
+- 3.5mm TRRS Input
 - Integrated Microphone
 
 ## Audio Output
@@ -12,14 +12,19 @@
 - Record Button
 - Stop Button
 - Play Button
-- Output Volume Dial
 - Record light
 - Fast Forward button
 - Rewind Button
+- Output Volume Buttons
 - Display to show recorder status
+- LED VU Meters
+- One-tap memo button
+- 2 User-Defined buttons
+- Power switch
 
 ## Power
 - Battery
+- USB-C Charging
 
 ## Storage
 - SD card storage

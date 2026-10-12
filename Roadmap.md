@@ -1,0 +1,11 @@
+## Milestones:
+- [ ] Foundation
+  - [ ] Determine Audio Circuitry Requirements
+    - [ ] Determine Audio Input Circuit Requirements
+    - [ ] Determine Audion Output Circuit Requirements   
+  - [ ] Determine Battery Requirements
+    - [ ] Determine Battery Circuitry Requirements
+  - [ ] Determine Button Circuitry Requirements
+  - [ ] Determine LED Circuitry Requirements
+  - [ ] Determine SD Card Circuitry Requirements
+  - [ ] Determine Display Circuitry Requirements

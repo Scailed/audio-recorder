@@ -5,3 +5,4 @@
 
 **10/12/2026**
 - Project start! I'm trying to build an audio recorder that will work perfectly for me
+- I'm gonna make a bit of a roadmap to organize this project
