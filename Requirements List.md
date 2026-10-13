@@ -31,3 +31,9 @@
 
 ## Audio Codec
 - 24 (32?) bit float recording
+
+## MCU
+- I2S or TDM Peripheral
+- I2C or SPI Interface
+- Audio clock
+- SDIO
