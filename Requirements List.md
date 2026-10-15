@@ -24,7 +24,9 @@
 
 ## Power
 - Battery
+    - LiPo battery, 1700 - 2000 mAh capacity
 - USB-C Charging
+    - Around 0.96 A of charging
 
 ## Storage
 - SD card storage
