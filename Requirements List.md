@@ -37,3 +37,6 @@
 - I2C or SPI Interface
 - Audio clock
 - SDIO
+
+## USB
+- USB High-speed transfer over USB-C

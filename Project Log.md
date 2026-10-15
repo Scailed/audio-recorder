@@ -6,3 +6,7 @@
 - ADC
   - PCM6240 is one idea, but it's made for automotive purposes, not necessarily good for something battery-powered
   - tlv320adc6140 seems much better
+
+**10/15/2026**
+- I'm working on choosing an MCU now, and I'm thinking about putting 3 audio jacks on the device like the field recorder
+- I think the STM32H7432ZITx will work
